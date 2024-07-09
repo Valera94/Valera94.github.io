@@ -32,3 +32,8 @@ window.addEventListener('DOMContentLoaded', event => {
     });
 
 });
+
+function URL()
+{
+    
+}
